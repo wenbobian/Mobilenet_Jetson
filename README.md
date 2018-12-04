@@ -3,8 +3,8 @@
 1.Configuration
 Hardware：Jetson TX2
 Software：#see jetson TX2_configuration_setting_1.0.docx
-Cuda8.6
-Cudnn
+Cuda8.6 
+Cudnn 
 Opencv3.4.0
 Tensorflow1.3.0
 Caffe-ssd
